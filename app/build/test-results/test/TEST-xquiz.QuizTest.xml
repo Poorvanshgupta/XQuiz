@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="xquiz.QuizTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2024-06-28T01:50:25" hostname="LAPTOP-N5FAE8UR" time="0.015">
+  <properties/>
+  <testcase name="Test for checking the functionality of getQuestions() method if the method returns correct list of questions" classname="xquiz.QuizTest" time="0.002"/>
+  <testcase name="Test for checking the functionality of getFinalScore() method if it returns the correct final score" classname="xquiz.QuizTest" time="0.007"/>
+  <testcase name="Test for checking the functionality of getQuizName() method if the method returns correct quizName" classname="xquiz.QuizTest" time="0.0"/>
+  <testcase name="Test for checking the functionality of addQuestion if a correct question is added" classname="xquiz.QuizTest" time="0.001"/>
+  <testcase name="Test for checking the functionality of the revealAnswerKey method if the output is printed in the expected format." classname="xquiz.QuizTest" time="0.004"/>
+  <system-out><![CDATA[What is the capital of France?
+1: Paris
+2: Bareilly
+3: Amsterdam
+4: Rome
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

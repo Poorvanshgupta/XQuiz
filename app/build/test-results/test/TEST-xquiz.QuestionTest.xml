@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Tests for Question class" tests="6" skipped="0" failures="0" errors="0" timestamp="2024-06-28T01:50:25" hostname="LAPTOP-N5FAE8UR" time="0.018">
+  <properties/>
+  <testcase name="Test for checking the functionality of checkAnswer if the UserResponse is correct" classname="xquiz.QuestionTest" time="0.012"/>
+  <testcase name="Test for checking the functionality of checkAnswer if the UserResponse is incorrect" classname="xquiz.QuestionTest" time="0.001"/>
+  <testcase name="Test for checking the functionality of Question constructor if the answer is not present in the choices" classname="xquiz.QuestionTest" time="0.001"/>
+  <testcase name="Test for checking the functionality of getAnswer() method if it returns the correct answer of a question" classname="xquiz.QuestionTest" time="0.0"/>
+  <testcase name="Test for checking the functionality of getChoices() method if it returns the correct list of choices" classname="xquiz.QuestionTest" time="0.0"/>
+  <testcase name="Test for checking the functionality of getQuestionText() method if it returns the correct question text" classname="xquiz.QuestionTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
